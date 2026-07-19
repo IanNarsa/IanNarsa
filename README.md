@@ -1,6 +1,6 @@
 # Hi, I'm Septian 👋
 
-**IT Business Analyst → Data Analytics → Finance Analytics**
+**Business Analyst → Data Analytics → Finance Analytics**
 
 I'm an IT Business Analyst with 6+ years across enterprise projects — customer loyalty platforms, ERP integration, HRIS implementation, and digital banking. I'm now building great skills in data analytics, with the long-term goal of moving into **Finance Data Analytics**.
 
