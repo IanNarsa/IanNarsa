@@ -12,9 +12,10 @@ I'm an IT Business Analyst with 6+ years across enterprise projects — customer
 - Translating business-analyst instincts (root cause analysis, process rigour) into data-driven finance use cases
 
 ### 🛠️ Stack
-`Python` · `SQL` · `Google BigQuery` · `Looker Studio` · `Golang`
+`Python` · `SQL` · `Google BigQuery` · `Looker Studio` · `Excel`
 
 ### 📜 Certifications
+- [BCGX - Forage Campaign Performance Analysis](https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/Pchc5rEGyCeozqY5Z_SKZxezskWgmFjRvj9_6a4b711d8df266974f4f2f15_1784542510531_completion_certificate.pdf)
 - [Lean Management & Manufacturing Expert](https://www.virtualbadge.io/certificate-validator?credential=5d0dcba4-c51c-49d9-ab92-589a62947435)
 
 ### 📂 Featured Projects
