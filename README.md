@@ -25,7 +25,7 @@ I'm an IT Business Analyst with 6+ years across enterprise projects — customer
 Marketing campaign data analysis: a multi-dimensional PivotTable investigation uncovers a customer-type × campaign crossover effect that contradicts the initial "Campaign B wins" conclusion — with direct implications for budget allocation.
 `Excel` `PivotTable` `Statistical Analysis`
 - **[ETL-Python](https://github.com/IanNarsa/ETL-Python)** — Extract–Transform–Load pipeline built with Bonobo Python.
-- 🚧 *FP&A Agent* and *HR Data Analytics Agent* — planned, applying AI-agent concepts to finance and people-analytics workflows
+- 🚧 *FP&A Agent* and *Data Analytics Agent* — planned, applying AI-agent concepts to finance and data analytics workflows
 
 ### ✍️ Beyond code
 I write and share BI/analytics thinking through **Play With Data**, and I'm working on a book exploring critical thinking, root cause analysis, and Kaizen for Indonesian organizational contexts.
